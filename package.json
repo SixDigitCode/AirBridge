@@ -1,0 +1,26 @@
+{
+    "name": "airbridge",
+    "version": "0.1.0",
+    "description": "A script that allows AirMessage clients to talk to an SMServer",
+    "main": "index.js",
+    "dependencies": {
+        "byte-buffer": "^2.0.0",
+        "form-data": "^4.0.0",
+        "node-fetch": "^2.6.1",
+        "uuid": "^8.3.2",
+        "websocket": "^1.0.34"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AwesomeIndustry/AirBridge.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AwesomeIndustry/AirBridge/issues"
+    },
+    "homepage": "https://github.com/AwesomeIndustry/AirBridge#readme"
+}
